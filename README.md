@@ -1,6 +1,6 @@
 # obsidian_for_wsl
 Want to use Obsidian from WSL?
-<br>
+<br><br>
 This script handles the download for you, so you can use Obsidian’s GUI for files inside WSL (Debian / Ubuntu).
 
 ## Usage Instructions:
